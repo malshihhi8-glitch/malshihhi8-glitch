@@ -7,5 +7,6 @@ Software Engineering student at UTAS (Oman) who loves building clean, user-frien
 - 📜 Certifications: Cisco (Ethical Hacker, Python Essentials, IoT, Modern AI), HackerRank (SQL, Python, CSS)
 - 🌍 Languages: Arabic, English
 
-### Featured project
-**Laaffah** – ordering website for a home cheesecake brand → [Live site](https://laaffah.netlify.app)
+### Featured projects
+- 🍰 **[Laaffah](https://github.com/malshihhi8-glitch/laaffah-website)** – ordering website for a home cheesecake brand → [Live site](https://laaffah.netlify.app)
+- 👗 **[Reem's Boutique](https://github.com/malshihhi8-glitch/reems-boutique-website)** – Arabic online store for clothes, abayas, nails and lenses with cart and WhatsApp ordering
